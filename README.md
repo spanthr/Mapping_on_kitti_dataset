@@ -2,6 +2,12 @@
 
 ![ ](https://github.com/spanthr/Mapping_on_kitti_dataset/blob/main/Images/ezgif.com-gif-maker%20(1).gif)
 
+Visualization of Kitti data set with ORB-Slam 
+
+
+![ ](https://github.com/spanthr/Mapping_on_kitti_dataset/blob/main/Images/ezgif.com-gif-maker.gif)
+
+Loop closure and Dense Surfel formation in dark
 
 The roboticists are committed to achieve one of the most humbling aspects of bringing intelligence to the robots, so they are efficient as humans with regards to the ability to perceive, orient and process information from the environment. The intelligent robots should be capable of this ability to understand their environment. In Robotics, map building or mapping provides a path towards supporting fully autonomous vehicles for navigation, path planning, decision making and feature detection. 
 
