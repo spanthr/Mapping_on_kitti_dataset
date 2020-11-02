@@ -91,21 +91,29 @@ Download the kitti stereo dataset, sequence 00.
 
 ![](Images/Picture1.png)
 
-![](Images/Picture2.png)
-
-![](Images/Picture3.png)
 The camera parameters necessary for map generation and transformation of the surfel from local to global.
 
+![](Images/Picture2.png)
 
-![](Images/Picture4.png)
 The depth threshold 
 
+![](Images/Picture3.png)
 
-![](Images/Picture5.png)
 The ORB extractor parameters.
 
 
+![](Images/Picture4.png)
+
+The ORB extractor parameters.
+
+![](Images/Picture5.png)
+
+ORB_SLAM2 map reconstruction. (first loop of the sequence)
+
 ![](Images/Picture6.png)
+
+
+
 ORB_SLAM2 visualization.
 
 ![](Images/Picture7.png)
