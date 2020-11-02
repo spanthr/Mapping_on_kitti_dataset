@@ -1,4 +1,8 @@
 # Mapping_on_kitti_dataset
+
+![ ](https://github.com/spanthr/Mapping_on_kitti_dataset/blob/main/Images/ezgif.com-gif-maker%20(1).gif)
+
+
 The roboticists are committed to achieve one of the most humbling aspects of bringing intelligence to the robots, so they are efficient as humans with regards to the ability to perceive, orient and process information from the environment. The intelligent robots should be capable of this ability to understand their environment. In Robotics, map building or mapping provides a path towards supporting fully autonomous vehicles for navigation, path planning, decision making and feature detection. 
 
 Introduction: In real life scenario as the robot navigates its environment it must compose a data model or the map of the surroundings using sensors. The sensors and the map generated depends on the application of the robot and its environment. The map is equivalent to what we might consider a picturization or perception of the environment in our mind’s eye.  
