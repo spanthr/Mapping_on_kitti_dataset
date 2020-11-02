@@ -26,7 +26,7 @@ The technique satisfies the requirement of generating the map on basis of super 
 
 above mentioned tasks in detail. The technique scales different environment with only using CPU computation unlike other techniques that are computationally costly and time consuming and require high end GPU for mapping. The system has the capability to build variety of environment that is from room-scale to urban-scale using the depth information from the RGB-D cameras, stereo camera, or monocular camera. The super pixels extracted from the depth and the intensity images are used to model the surfels in the system. The surfels are organized to pose the graph of the SLAM system to achieve 0 fusion time regardless of the scale of reconstructed models [1]. The fast deformation of the map is done with optimized pose graph in order to fulfill global consistency in real-time. The project aims to conduct comparative study of different mapping techniques and test the performance of the above technique for reconstruction of urban and room-scale using the KITTI dataset. The base code and scripts were cloned from the creator’s repository. 
 
-INSTALLATION 
+## INSTALLATION 
 
 The first step related to installing this package is to create a catkin workspace. If ROS is already installed, then this can be achieved by executing the following commands: 
 
@@ -47,7 +47,7 @@ Then in the .bashrc, add the following:
 
 $ source devel/setup.bash 
 
-DEPENDENCIES 
+## DEPENDENCIES 
 DenseSurfelMapping/ORB_SLAM2 
 
 Pangolin 
@@ -88,7 +88,7 @@ Kitti stereo sequence 00
 
 Download the kitti stereo dataset, sequence 00. 
 
-# reference
+# References
 https://www.dropbox.com/s/h9bais2wnw1g9f0/root.pdf?dl=0
 
 [1] Wang, Kaixuan, Gao, Fei, Shen, and Shaojie, “Real-time Scalable Dense Surfel Mapping,” arXiv.org, 10-Sep-2019. [Online]. Available: https://arxiv.org/abs/1909.04250. [Accessed: 02-May-2020].
